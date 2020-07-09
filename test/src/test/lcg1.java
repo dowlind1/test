@@ -11,5 +11,6 @@ public class lcg1 {
 		System.out.println("y="+y);
 		System.out.println("z="+z);
 	}
-
+ 
+ 
 }
